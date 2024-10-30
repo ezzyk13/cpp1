@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\ISMAIL KEREM ERKUL\source\repos\proje01\Main.cpp(187,15): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ISMAIL KEREM ERKUL\source\repos\proje01\Main.cpp(191,15): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ISMAIL KEREM ERKUL\source\repos\proje01\Main.cpp(195,16): warning C4244: '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  proje01.vcxproj -> C:\Users\ISMAIL KEREM ERKUL\source\repos\proje01\x64\Debug\proje01.exe
